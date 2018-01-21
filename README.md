@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Xuhui-Wang/HeadFirstJunit.svg?branch=master)](https://travis-ci.org/Xuhui-Wang/HeadFirstJunit)
+
 Java, JUnit and ANT
 ===================
 
