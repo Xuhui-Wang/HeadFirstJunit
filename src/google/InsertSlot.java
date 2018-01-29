@@ -1,4 +1,5 @@
-package math;
+package google;
+
 public class InsertSlot {
 	public int solution(int[] P, int K) {
 	        /*
